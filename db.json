@@ -1,14 +1,14 @@
 {
     "burgers": [
         {
-            "id":1,
-            "name": "Burger",
-            "size": "L"
+            "id"   : 1,
+            "name" : "Burger",
+            "size" : "L"
         },
-    {
-            "id":2,
-            "name": "Cheese Burger",
-            "size": "M"
-    }
-]
+        {
+            "id"   : 2,
+            "name" : "Cheese Burger",
+            "size" : "M"
+        }
+    ]
 }
